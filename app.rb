@@ -1,1 +1,1 @@
-class App 
+class App < Sinatra::
