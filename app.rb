@@ -1,1 +1,3 @@
-class App < Sinatra::
+class App < Sinatra::Base 
+  
+end
